@@ -1,0 +1,6 @@
+# IDEA files
+.idea/
+firstDmsTask.iml
+
+#Build folder
+target/
